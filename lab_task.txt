@@ -1,0 +1,20 @@
+
+Solve them using dynamic programming
+
+Problem -1 
+ Fibonacci series : 0 1 1 2 3 5 8
+
+input : 5
+output: 5
+
+
+
+Problem 2: Factorial of a number
+
+input : 5
+output:120
+
+Problem 3: Sum of n Numbers
+
+input : 5
+output:15  

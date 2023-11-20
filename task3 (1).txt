@@ -1,0 +1,24 @@
+coin change:
+input : enter no of coins : 3
+        coin elements : 4 10 25
+        given sum     :41
+
+output : the coins are : 25 4 4 4 4
+         minimum number of coins : 5
+
+
+
+Bin packing :
+
+input : no of weights to be packed : 6
+        given weights : 4 8 1 4 2 1
+        Bin capacity :10
+
+output : minimum no of bins : 2
+
+Fractional Knapsack:
+input : No of items:3
+given weights: 18 15 10
+given profit : 25 24 15
+
+output: maximum profit :31.5
